@@ -1,0 +1,6 @@
+framework module Pods_DivideNumber {
+  umbrella header "Pods-DivideNumber-umbrella.h"
+
+  export *
+  module * { export * }
+}

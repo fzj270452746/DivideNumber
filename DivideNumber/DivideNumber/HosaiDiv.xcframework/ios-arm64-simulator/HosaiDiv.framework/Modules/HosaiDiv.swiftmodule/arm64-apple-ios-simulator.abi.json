@@ -1,0 +1,5542 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "HosaiDiv",
+    "printedName": "HosaiDiv",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "HosaiDiv"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TundbuView",
+        "printedName": "TundbuView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "mokn",
+            "printedName": "mokn",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv10TundbuViewC4moknyycSgvp",
+            "mangledName": "$s8HosaiDiv10TundbuViewC4moknyycSgvp",
+            "moduleName": "HosaiDiv",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv10TundbuViewC4moknyycSgvg",
+                "mangledName": "$s8HosaiDiv10TundbuViewC4moknyycSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv10TundbuViewC4moknyycSgvs",
+                "mangledName": "$s8HosaiDiv10TundbuViewC4moknyycSgvs",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv10TundbuViewC4moknyycSgvM",
+                "mangledName": "$s8HosaiDiv10TundbuViewC4moknyycSgvM",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "eyabsh",
+            "printedName": "eyabsh",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv10TundbuViewC6eyabshyycSgvp",
+            "mangledName": "$s8HosaiDiv10TundbuViewC6eyabshyycSgvp",
+            "moduleName": "HosaiDiv",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv10TundbuViewC6eyabshyycSgvg",
+                "mangledName": "$s8HosaiDiv10TundbuViewC6eyabshyycSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv10TundbuViewC6eyabshyycSgvs",
+                "mangledName": "$s8HosaiDiv10TundbuViewC6eyabshyycSgvs",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv10TundbuViewC6eyabshyycSgvM",
+                "mangledName": "$s8HosaiDiv10TundbuViewC6eyabshyycSgvM",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "zhuenMAJAE",
+            "printedName": "zhuenMAJAE",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv10TundbuViewC10zhuenMAJAE33_D75C5727C0A2F12D8E7A3BBC2211AE5FLLSo8UIButtonCSgvp",
+            "mangledName": "$s8HosaiDiv10TundbuViewC10zhuenMAJAE33_D75C5727C0A2F12D8E7A3BBC2211AE5FLLSo8UIButtonCSgvp",
+            "moduleName": "HosaiDiv",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "lengnauys",
+            "printedName": "lengnauys",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv10TundbuViewC9lengnauys33_D75C5727C0A2F12D8E7A3BBC2211AE5FLLSo8UIButtonCSgvp",
+            "mangledName": "$s8HosaiDiv10TundbuViewC9lengnauys33_D75C5727C0A2F12D8E7A3BBC2211AE5FLLSo8UIButtonCSgvp",
+            "moduleName": "HosaiDiv",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 3,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "dnkaeMkae",
+            "printedName": "dnkaeMkae",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv10TundbuViewC9dnkaeMkae33_D75C5727C0A2F12D8E7A3BBC2211AE5FLLSo8UIButtonCSgvp",
+            "mangledName": "$s8HosaiDiv10TundbuViewC9dnkaeMkae33_D75C5727C0A2F12D8E7A3BBC2211AE5FLLSo8UIButtonCSgvp",
+            "moduleName": "HosaiDiv",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 4,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "isMenuExpanded",
+            "printedName": "isMenuExpanded",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv10TundbuViewC14isMenuExpanded33_D75C5727C0A2F12D8E7A3BBC2211AE5FLLSbvp",
+            "mangledName": "$s8HosaiDiv10TundbuViewC14isMenuExpanded33_D75C5727C0A2F12D8E7A3BBC2211AE5FLLSbvp",
+            "moduleName": "HosaiDiv",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 5,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "animationDuration",
+            "printedName": "animationDuration",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv10TundbuViewC17animationDuration33_D75C5727C0A2F12D8E7A3BBC2211AE5FLLSdvp",
+            "mangledName": "$s8HosaiDiv10TundbuViewC17animationDuration33_D75C5727C0A2F12D8E7A3BBC2211AE5FLLSdvp",
+            "moduleName": "HosaiDiv",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 6,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "subButtonSize",
+            "printedName": "subButtonSize",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv10TundbuViewC13subButtonSize33_D75C5727C0A2F12D8E7A3BBC2211AE5FLL14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s8HosaiDiv10TundbuViewC13subButtonSize33_D75C5727C0A2F12D8E7A3BBC2211AE5FLL12CoreGraphics7CGFloatVvp",
+            "moduleName": "HosaiDiv",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 7,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "spacing",
+            "printedName": "spacing",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv10TundbuViewC7spacing33_D75C5727C0A2F12D8E7A3BBC2211AE5FLL14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s8HosaiDiv10TundbuViewC7spacing33_D75C5727C0A2F12D8E7A3BBC2211AE5FLL12CoreGraphics7CGFloatVvp",
+            "moduleName": "HosaiDiv",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 8,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TundbuView",
+                "printedName": "HosaiDiv.TundbuView",
+                "usr": "c:@M@HosaiDiv@objc(cs)TundbuView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@HosaiDiv@objc(cs)TundbuView(im)initWithFrame:",
+            "mangledName": "$s8HosaiDiv10TundbuViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "HosaiDiv.TundbuView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TundbuView",
+                    "printedName": "HosaiDiv.TundbuView",
+                    "usr": "c:@M@HosaiDiv@objc(cs)TundbuView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@HosaiDiv@objc(cs)TundbuView(im)initWithCoder:",
+            "mangledName": "$s8HosaiDiv10TundbuViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@HosaiDiv@objc(cs)TundbuView",
+        "mangledName": "$s8HosaiDiv10TundbuViewC",
+        "moduleName": "HosaiDiv",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "HosaiDiv"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "HosaiDiv"
+      },
+      {
+        "kind": "Import",
+        "name": "AdjustSdk",
+        "printedName": "AdjustSdk",
+        "declKind": "Import",
+        "moduleName": "HosaiDiv"
+      },
+      {
+        "kind": "Var",
+        "name": "Basudi",
+        "printedName": "Basudi",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Array",
+            "printedName": "[Swift.String]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:Sa"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv6BasudiSaySSGvp",
+        "mangledName": "$s8HosaiDiv6BasudiSaySSGvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl"
+        ],
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "iEt",
+        "printedName": "iEt",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv3iEtSSvp",
+        "mangledName": "$s8HosaiDiv3iEtSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "etNm",
+        "printedName": "etNm",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv4etNmSSvp",
+        "mangledName": "$s8HosaiDiv4etNmSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "etDt",
+        "printedName": "etDt",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv4etDtSSvp",
+        "mangledName": "$s8HosaiDiv4etDtSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "crsus",
+        "printedName": "crsus",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv5crsusSSvp",
+        "mangledName": "$s8HosaiDiv5crsusSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "moy",
+        "printedName": "moy",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv3moySSvp",
+        "mangledName": "$s8HosaiDiv3moySSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "scrsus",
+        "printedName": "scrsus",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv6scrsusSSvp",
+        "mangledName": "$s8HosaiDiv6scrsusSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "dptsv",
+        "printedName": "dptsv",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv5dptsvSSvp",
+        "mangledName": "$s8HosaiDiv5dptsvSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "fstdpt",
+        "printedName": "fstdpt",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv6fstdptSSvp",
+        "mangledName": "$s8HosaiDiv6fstdptSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "JinodkBinVc",
+        "printedName": "JinodkBinVc",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "ksoie",
+            "printedName": "ksoie",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "HosaiDiv.Rusyab?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Rusyab",
+                    "printedName": "HosaiDiv.Rusyab",
+                    "usr": "s:8HosaiDiv6RusyabV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv11JinodkBinVcC5ksoieAA6RusyabVSgvp",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC5ksoieAA6RusyabVSgvp",
+            "moduleName": "HosaiDiv",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "HosaiDiv.Rusyab?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Rusyab",
+                        "printedName": "HosaiDiv.Rusyab",
+                        "usr": "s:8HosaiDiv6RusyabV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv11JinodkBinVcC5ksoieAA6RusyabVSgvg",
+                "mangledName": "$s8HosaiDiv11JinodkBinVcC5ksoieAA6RusyabVSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "HosaiDiv.Rusyab?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Rusyab",
+                        "printedName": "HosaiDiv.Rusyab",
+                        "usr": "s:8HosaiDiv6RusyabV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv11JinodkBinVcC5ksoieAA6RusyabVSgvs",
+                "mangledName": "$s8HosaiDiv11JinodkBinVcC5ksoieAA6RusyabVSgvs",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv11JinodkBinVcC5ksoieAA6RusyabVSgvM",
+                "mangledName": "$s8HosaiDiv11JinodkBinVcC5ksoieAA6RusyabVSgvM",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "kamin",
+            "printedName": "kamin",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv11JinodkBinVcC5kaminSo9WKWebViewCSgvp",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC5kaminSo9WKWebViewCSgvp",
+            "moduleName": "HosaiDiv",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv11JinodkBinVcC5kaminSo9WKWebViewCSgvg",
+                "mangledName": "$s8HosaiDiv11JinodkBinVcC5kaminSo9WKWebViewCSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv11JinodkBinVcC5kaminSo9WKWebViewCSgvs",
+                "mangledName": "$s8HosaiDiv11JinodkBinVcC5kaminSo9WKWebViewCSgvs",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv11JinodkBinVcC5kaminSo9WKWebViewCSgvM",
+                "mangledName": "$s8HosaiDiv11JinodkBinVcC5kaminSo9WKWebViewCSgvM",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(im)viewDidLoad",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC11viewDidLoadyyF",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(im)viewDidLayoutSubviews",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC21viewDidLayoutSubviewsyyF",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKNavigationActionPolicy",
+                    "printedName": "WebKit.WKNavigationActionPolicy",
+                    "usr": "c:@E@WKNavigationActionPolicy"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(im)webView:decidePolicyForNavigationAction:decisionHandler:",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC7webView_15decidePolicyFor15decisionHandlerySo05WKWebG0C_So18WKNavigationActionCySo0noI0VctF",
+            "moduleName": "HosaiDiv",
+            "isOpen": true,
+            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebViewConfiguration",
+                "printedName": "WebKit.WKWebViewConfiguration",
+                "usr": "c:objc(cs)WKWebViewConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWindowFeatures",
+                "printedName": "WebKit.WKWindowFeatures",
+                "usr": "c:objc(cs)WKWindowFeatures"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC7webView_09createWebG4With3for14windowFeaturesSo05WKWebG0CSgAI_So0nG13ConfigurationCSo18WKNavigationActionCSo08WKWindowM0CtF",
+            "moduleName": "HosaiDiv",
+            "isOpen": true,
+            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "userContentController",
+            "printedName": "userContentController(_:didReceive:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKUserContentController",
+                "printedName": "WebKit.WKUserContentController",
+                "usr": "c:objc(cs)WKUserContentController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKScriptMessage",
+                "printedName": "WebKit.WKScriptMessage",
+                "usr": "c:objc(cs)WKScriptMessage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(im)userContentController:didReceiveScriptMessage:",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC21userContentController_10didReceiveySo06WKUsergH0C_So15WKScriptMessageCtF",
+            "moduleName": "HosaiDiv",
+            "isOpen": true,
+            "objc_name": "userContentController:didReceiveScriptMessage:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(py)shouldAutorotate",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC16shouldAutorotateSbvp",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(im)shouldAutorotate",
+                "mangledName": "$s8HosaiDiv11JinodkBinVcC16shouldAutorotateSbvg",
+                "moduleName": "HosaiDiv",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(py)supportedInterfaceOrientations",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(im)supportedInterfaceOrientations",
+                "mangledName": "$s8HosaiDiv11JinodkBinVcC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "HosaiDiv",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "JinodkBinVc",
+                "printedName": "HosaiDiv.JinodkBinVc",
+                "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(im)initWithNibName:bundle:",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "HosaiDiv.JinodkBinVc?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "JinodkBinVc",
+                    "printedName": "HosaiDiv.JinodkBinVc",
+                    "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc(im)initWithCoder:",
+            "mangledName": "$s8HosaiDiv11JinodkBinVcC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@HosaiDiv@objc(cs)JinodkBinVc",
+        "mangledName": "$s8HosaiDiv11JinodkBinVcC",
+        "moduleName": "HosaiDiv",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HosaiDiv"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "HosaiDiv"
+      },
+      {
+        "kind": "Import",
+        "name": "AdjustSdk",
+        "printedName": "AdjustSdk",
+        "declKind": "Import",
+        "moduleName": "HosaiDiv"
+      },
+      {
+        "kind": "Function",
+        "name": "Taiudjj",
+        "printedName": "Taiudjj(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Optional",
+            "printedName": "Swift.String?",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:Sq"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8HosaiDiv7TaiudjjySSSgSSF",
+        "mangledName": "$s8HosaiDiv7TaiudjjySSSgSSF",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "kmjsuees",
+        "printedName": "kmjsuees",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv8kmjsueesSSvp",
+        "mangledName": "$s8HosaiDiv8kmjsueesSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "kwoiuuns",
+        "printedName": "kwoiuuns",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv8kwoiuunsSSvp",
+        "mangledName": "$s8HosaiDiv8kwoiuunsSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "ktsyuesn",
+        "printedName": "ktsyuesn",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv8ktsyuesnSSvp",
+        "mangledName": "$s8HosaiDiv8ktsyuesnSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Function",
+        "name": "jduiqoakKjus",
+        "printedName": "jduiqoakKjus()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8HosaiDiv12jduiqoakKjusyyF",
+        "mangledName": "$s8HosaiDiv12jduiqoakKjusyyF",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "tsiihGhreui",
+        "printedName": "tsiihGhreui()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8HosaiDiv11tsiihGhreuiyyF",
+        "mangledName": "$s8HosaiDiv11tsiihGhreuiyyF",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "ksoiloNoppo",
+        "printedName": "ksoiloNoppo(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Rusyab",
+            "printedName": "HosaiDiv.Rusyab",
+            "usr": "s:8HosaiDiv6RusyabV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8HosaiDiv11ksoiloNoppoyyAA6RusyabVF",
+        "mangledName": "$s8HosaiDiv11ksoiloNoppoyyAA6RusyabVF",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "Winkeun",
+        "printedName": "Winkeun(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Rusyab",
+            "printedName": "HosaiDiv.Rusyab",
+            "usr": "s:8HosaiDiv6RusyabV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8HosaiDiv7WinkeunyyAA6RusyabVF",
+        "mangledName": "$s8HosaiDiv7WinkeunyyAA6RusyabVF",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "Nam",
+        "printedName": "Nam",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv3NamSSvp",
+        "mangledName": "$s8HosaiDiv3NamSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "DT",
+        "printedName": "DT",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv2DTSSvp",
+        "mangledName": "$s8HosaiDiv2DTSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "UL",
+        "printedName": "UL",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8HosaiDiv2ULSSvp",
+        "mangledName": "$s8HosaiDiv2ULSSvp",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Function",
+        "name": "Ybauhjd",
+        "printedName": "Ybauhjd(_:etDic:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Dictionary",
+            "printedName": "[Swift.String : Any]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "Any"
+              }
+            ],
+            "usr": "s:SD"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Dictionary",
+            "printedName": "[Swift.String : Swift.String]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:SD"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8HosaiDiv7Ybauhjd_5etDicySDySSypG_SDyS2SGtF",
+        "mangledName": "$s8HosaiDiv7Ybauhjd_5etDicySDySSypG_SDyS2SGtF",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "gsioioLoudse",
+        "printedName": "gsioioLoudse(_:_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Dictionary",
+            "printedName": "[Swift.String : Any]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "Any"
+              }
+            ],
+            "usr": "s:SD"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Dictionary",
+            "printedName": "[Swift.String : Swift.String]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:SD"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8HosaiDiv12gsioioLoudseyySDySSypG_SDyS2SGtF",
+        "mangledName": "$s8HosaiDiv12gsioioLoudseyySDySSypG_SDyS2SGtF",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Eydhji",
+        "printedName": "Eydhji",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "xcvw",
+            "printedName": "xcvw",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6EydhjiV4xcvwSSSgvp",
+            "mangledName": "$s8HosaiDiv6EydhjiV4xcvwSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6EydhjiV4xcvwSSSgvg",
+                "mangledName": "$s8HosaiDiv6EydhjiV4xcvwSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "cvbwe",
+            "printedName": "cvbwe",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6EydhjiV5cvbweSSSgvp",
+            "mangledName": "$s8HosaiDiv6EydhjiV5cvbweSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6EydhjiV5cvbweSSSgvg",
+                "mangledName": "$s8HosaiDiv6EydhjiV5cvbweSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "jfuii",
+            "printedName": "jfuii",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6EydhjiV5jfuiiSSSgvp",
+            "mangledName": "$s8HosaiDiv6EydhjiV5jfuiiSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6EydhjiV5jfuiiSSSgvg",
+                "mangledName": "$s8HosaiDiv6EydhjiV5jfuiiSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "country",
+            "printedName": "country",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "HosaiDiv.Eydhji.Kieuisn?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kieuisn",
+                    "printedName": "HosaiDiv.Eydhji.Kieuisn",
+                    "usr": "s:8HosaiDiv6EydhjiV7KieuisnV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6EydhjiV7countryAC7KieuisnVSgvp",
+            "mangledName": "$s8HosaiDiv6EydhjiV7countryAC7KieuisnVSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "HosaiDiv.Eydhji.Kieuisn?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Kieuisn",
+                        "printedName": "HosaiDiv.Eydhji.Kieuisn",
+                        "usr": "s:8HosaiDiv6EydhjiV7KieuisnV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6EydhjiV7countryAC7KieuisnVSgvg",
+                "mangledName": "$s8HosaiDiv6EydhjiV7countryAC7KieuisnVSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "Kieuisn",
+            "printedName": "Kieuisn",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "code",
+                "printedName": "code",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:8HosaiDiv6EydhjiV7KieuisnV4codeSSvp",
+                "mangledName": "$s8HosaiDiv6EydhjiV7KieuisnV4codeSSvp",
+                "moduleName": "HosaiDiv",
+                "declAttributes": [
+                  "HasStorage"
+                ],
+                "fixedbinaryorder": 0,
+                "isLet": true,
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:8HosaiDiv6EydhjiV7KieuisnV4codeSSvg",
+                    "mangledName": "$s8HosaiDiv6EydhjiV7KieuisnV4codeSSvg",
+                    "moduleName": "HosaiDiv",
+                    "implicit": true,
+                    "declAttributes": [
+                      "Transparent"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(code:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kieuisn",
+                    "printedName": "HosaiDiv.Eydhji.Kieuisn",
+                    "usr": "s:8HosaiDiv6EydhjiV7KieuisnV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:8HosaiDiv6EydhjiV7KieuisnV4codeAESS_tcfc",
+                "mangledName": "$s8HosaiDiv6EydhjiV7KieuisnV4codeAESS_tcfc",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(from:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kieuisn",
+                    "printedName": "HosaiDiv.Eydhji.Kieuisn",
+                    "usr": "s:8HosaiDiv6EydhjiV7KieuisnV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Decoder",
+                    "printedName": "any Swift.Decoder",
+                    "usr": "s:s7DecoderP"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:8HosaiDiv6EydhjiV7KieuisnV4fromAEs7Decoder_p_tKcfc",
+                "mangledName": "$s8HosaiDiv6EydhjiV7KieuisnV4fromAEs7Decoder_p_tKcfc",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "throwing": true,
+                "init_kind": "Designated"
+              }
+            ],
+            "declKind": "Struct",
+            "usr": "s:8HosaiDiv6EydhjiV7KieuisnV",
+            "mangledName": "$s8HosaiDiv6EydhjiV7KieuisnV",
+            "moduleName": "HosaiDiv",
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Decodable",
+                "printedName": "Decodable",
+                "usr": "s:Se",
+                "mangledName": "$sSe"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Sendable",
+                "printedName": "Sendable",
+                "usr": "s:s8SendableP",
+                "mangledName": "$ss8SendableP"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(xcvw:cvbwe:jfuii:country:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Eydhji",
+                "printedName": "HosaiDiv.Eydhji",
+                "usr": "s:8HosaiDiv6EydhjiV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "HosaiDiv.Eydhji.Kieuisn?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kieuisn",
+                    "printedName": "HosaiDiv.Eydhji.Kieuisn",
+                    "usr": "s:8HosaiDiv6EydhjiV7KieuisnV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8HosaiDiv6EydhjiV4xcvw5cvbwe5jfuii7countryACSSSg_A2hC7KieuisnVSgtcfc",
+            "mangledName": "$s8HosaiDiv6EydhjiV4xcvw5cvbwe5jfuii7countryACSSSg_A2hC7KieuisnVSgtcfc",
+            "moduleName": "HosaiDiv",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Eydhji",
+                "printedName": "HosaiDiv.Eydhji",
+                "usr": "s:8HosaiDiv6EydhjiV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8HosaiDiv6EydhjiV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s8HosaiDiv6EydhjiV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "HosaiDiv",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:8HosaiDiv6EydhjiV",
+        "mangledName": "$s8HosaiDiv6EydhjiV",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Rusyab",
+        "printedName": "Rusyab",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "vcbew",
+            "printedName": "vcbew",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV5vcbewSSSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV5vcbewSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV5vcbewSSSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV5vcbewSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "kfiid",
+            "printedName": "kfiid",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV5kfiidSSSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV5kfiidSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV5kfiidSSSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV5kfiidSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "bglpo",
+            "printedName": "bglpo",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV5bglpoSaySSGSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV5bglpoSaySSGSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.String]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.String]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV5bglpoSaySSGSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV5bglpoSaySSGSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "ydnoud",
+            "printedName": "ydnoud",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV6ydnoudSSSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV6ydnoudSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV6ydnoudSSSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV6ydnoudSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "naoiek",
+            "printedName": "naoiek",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV6naoiekSDyS2SGSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV6naoiekSDyS2SGSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 4,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.String : Swift.String]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dictionary",
+                        "printedName": "[Swift.String : Swift.String]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:SD"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV6naoiekSDyS2SGSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV6naoiekSDyS2SGSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "gztdun",
+            "printedName": "gztdun",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV6gztdunSSSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV6gztdunSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 5,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV6gztdunSSSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV6gztdunSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "molksk",
+            "printedName": "molksk",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV6molkskSSSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV6molkskSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 6,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV6molkskSSSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV6molkskSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "ncbuas",
+            "printedName": "ncbuas",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV6ncbuasSSSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV6ncbuasSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 7,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV6ncbuasSSSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV6ncbuasSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "cioen",
+            "printedName": "cioen",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV5cioenSSSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV5cioenSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 8,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV5cioenSSSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV5cioenSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "xineok",
+            "printedName": "xineok",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV6xineokSSSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV6xineokSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 9,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV6xineokSSSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV6xineokSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "rundhu",
+            "printedName": "rundhu",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV6rundhuSiSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV6rundhuSiSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 10,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV6rundhuSiSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV6rundhuSiSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "loismn",
+            "printedName": "loismn",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8HosaiDiv6RusyabV6loismnSSSgvp",
+            "mangledName": "$s8HosaiDiv6RusyabV6loismnSSSgvp",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 11,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8HosaiDiv6RusyabV6loismnSSSgvg",
+                "mangledName": "$s8HosaiDiv6RusyabV6loismnSSSgvg",
+                "moduleName": "HosaiDiv",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(vcbew:kfiid:bglpo:ydnoud:naoiek:gztdun:molksk:ncbuas:cioen:xineok:rundhu:loismn:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Rusyab",
+                "printedName": "HosaiDiv.Rusyab",
+                "usr": "s:8HosaiDiv6RusyabV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8HosaiDiv6RusyabV5vcbew5kfiid5bglpo6ydnoud6naoiek6gztdun6molksk6ncbuas5cioen6xineok6rundhu6loismnACSSSg_APSaySSGSgAPSDyS2SGSgA5PSiSgAPtcfc",
+            "mangledName": "$s8HosaiDiv6RusyabV5vcbew5kfiid5bglpo6ydnoud6naoiek6gztdun6molksk6ncbuas5cioen6xineok6rundhu6loismnACSSSg_APSaySSGSgAPSDyS2SGSgA5PSiSgAPtcfc",
+            "moduleName": "HosaiDiv",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Rusyab",
+                "printedName": "HosaiDiv.Rusyab",
+                "usr": "s:8HosaiDiv6RusyabV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8HosaiDiv6RusyabV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s8HosaiDiv6RusyabV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "HosaiDiv",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8HosaiDiv6RusyabV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s8HosaiDiv6RusyabV6encode2toys7Encoder_p_tKF",
+            "moduleName": "HosaiDiv",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:8HosaiDiv6RusyabV",
+        "mangledName": "$s8HosaiDiv6RusyabV",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "cbyauKisie",
+        "printedName": "cbyauKisie()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8HosaiDiv10cbyauKisieSbyF",
+        "mangledName": "$s8HosaiDiv10cbyauKisieSbyF",
+        "moduleName": "HosaiDiv",
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "HosaiDiv"
+      },
+      {
+        "kind": "Import",
+        "name": "SDWebImage",
+        "printedName": "SDWebImage",
+        "declKind": "Import",
+        "moduleName": "HosaiDiv"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "RaumUmdrehenSpielAnsicht",
+        "printedName": "RaumUmdrehenSpielAnsicht",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "RaumUmdrehenSpielAnsicht",
+                "printedName": "HosaiDiv.RaumUmdrehenSpielAnsicht",
+                "usr": "c:@M@HosaiDiv@objc(cs)RaumUmdrehenSpielAnsicht"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@HosaiDiv@objc(cs)RaumUmdrehenSpielAnsicht(im)initWithFrame:",
+            "mangledName": "$s8HosaiDiv24RaumUmdrehenSpielAnsichtC5frameACSo6CGRectV_tcfc",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "HosaiDiv.RaumUmdrehenSpielAnsicht?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RaumUmdrehenSpielAnsicht",
+                    "printedName": "HosaiDiv.RaumUmdrehenSpielAnsicht",
+                    "usr": "c:@M@HosaiDiv@objc(cs)RaumUmdrehenSpielAnsicht"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@HosaiDiv@objc(cs)RaumUmdrehenSpielAnsicht(im)initWithCoder:",
+            "mangledName": "$s8HosaiDiv24RaumUmdrehenSpielAnsichtC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "layoutSubviews",
+            "printedName": "layoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@HosaiDiv@objc(cs)RaumUmdrehenSpielAnsicht(im)layoutSubviews",
+            "mangledName": "$s8HosaiDiv24RaumUmdrehenSpielAnsichtC14layoutSubviewsyyF",
+            "moduleName": "HosaiDiv",
+            "overriding": true,
+            "objc_name": "layoutSubviews",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@HosaiDiv@objc(cs)RaumUmdrehenSpielAnsicht",
+        "mangledName": "$s8HosaiDiv24RaumUmdrehenSpielAnsichtC",
+        "moduleName": "HosaiDiv",
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "String",
+        "printedName": "String",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "stringTo",
+            "printedName": "stringTo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : AnyObject]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : AnyObject]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:SS8HosaiDivE8stringToSDySSyXlGSgyF",
+            "mangledName": "$sSS8HosaiDivE8stringToSDySSyXlGSgyF",
+            "moduleName": "HosaiDiv",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:SS",
+        "mangledName": "$sSS",
+        "moduleName": "Swift",
+        "declAttributes": [
+          "EagerMove",
+          "Frozen"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CodingKeyRepresentable",
+            "printedName": "CodingKeyRepresentable",
+            "usr": "s:s22CodingKeyRepresentableP",
+            "mangledName": "$ss22CodingKeyRepresentableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasContiguousBytes",
+            "printedName": "_HasContiguousBytes",
+            "usr": "s:s19_HasContiguousBytesP",
+            "mangledName": "$ss19_HasContiguousBytesP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "TextOutputStream",
+            "printedName": "TextOutputStream",
+            "usr": "s:s16TextOutputStreamP",
+            "mangledName": "$ss16TextOutputStreamP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "TextOutputStreamable",
+            "printedName": "TextOutputStreamable",
+            "usr": "s:s20TextOutputStreamableP",
+            "mangledName": "$ss20TextOutputStreamableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinUnicodeScalarLiteral",
+            "printedName": "_ExpressibleByBuiltinUnicodeScalarLiteral",
+            "usr": "s:s41_ExpressibleByBuiltinUnicodeScalarLiteralP",
+            "mangledName": "$ss41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinExtendedGraphemeClusterLiteral",
+            "printedName": "_ExpressibleByBuiltinExtendedGraphemeClusterLiteral",
+            "usr": "s:s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP",
+            "mangledName": "$ss51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinStringLiteral",
+            "printedName": "_ExpressibleByBuiltinStringLiteral",
+            "usr": "s:s34_ExpressibleByBuiltinStringLiteralP",
+            "mangledName": "$ss34_ExpressibleByBuiltinStringLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByStringLiteral",
+            "printedName": "ExpressibleByStringLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "StringLiteralType",
+                "printedName": "StringLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s26ExpressibleByStringLiteralP",
+            "mangledName": "$ss26ExpressibleByStringLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByExtendedGraphemeClusterLiteral",
+            "printedName": "ExpressibleByExtendedGraphemeClusterLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ExtendedGraphemeClusterLiteralType",
+                "printedName": "ExtendedGraphemeClusterLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s43ExpressibleByExtendedGraphemeClusterLiteralP",
+            "mangledName": "$ss43ExpressibleByExtendedGraphemeClusterLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByUnicodeScalarLiteral",
+            "printedName": "ExpressibleByUnicodeScalarLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "UnicodeScalarLiteralType",
+                "printedName": "UnicodeScalarLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s33ExpressibleByUnicodeScalarLiteralP",
+            "mangledName": "$ss33ExpressibleByUnicodeScalarLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BidirectionalCollection",
+            "printedName": "BidirectionalCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Character",
+                    "printedName": "Swift.Character",
+                    "usr": "s:SJ"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Index",
+                    "printedName": "Swift.String.Index",
+                    "usr": "s:SS5IndexV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultIndices",
+                    "printedName": "Swift.DefaultIndices<Swift.String>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SI"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SK",
+            "mangledName": "$sSK"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Collection",
+            "printedName": "Collection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Character",
+                    "printedName": "Swift.Character",
+                    "usr": "s:SJ"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Index",
+                    "printedName": "Swift.String.Index",
+                    "usr": "s:SS5IndexV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Iterator",
+                    "printedName": "Swift.String.Iterator",
+                    "usr": "s:SS8IteratorV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultIndices",
+                    "printedName": "Swift.DefaultIndices<Swift.String>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SI"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sl",
+            "mangledName": "$sSl"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sequence",
+            "printedName": "Sequence",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Character",
+                    "printedName": "Swift.Character",
+                    "usr": "s:SJ"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Iterator",
+                    "printedName": "Swift.String.Iterator",
+                    "usr": "s:SS8IteratorV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:ST",
+            "mangledName": "$sST"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Comparable",
+            "printedName": "Comparable",
+            "usr": "s:SL",
+            "mangledName": "$sSL"
+          },
+          {
+            "kind": "Conformance",
+            "name": "StringProtocol",
+            "printedName": "StringProtocol",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "UTF8View",
+                "printedName": "UTF8View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UTF8View",
+                    "printedName": "Swift.String.UTF8View",
+                    "usr": "s:SS8UTF8ViewV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "UTF16View",
+                "printedName": "UTF16View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UTF16View",
+                    "printedName": "Swift.String.UTF16View",
+                    "usr": "s:SS9UTF16ViewV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "UnicodeScalarView",
+                "printedName": "UnicodeScalarView",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UnicodeScalarView",
+                    "printedName": "Swift.String.UnicodeScalarView",
+                    "usr": "s:SS17UnicodeScalarViewV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sy",
+            "mangledName": "$sSy"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByStringInterpolation",
+            "printedName": "ExpressibleByStringInterpolation",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "StringInterpolation",
+                "printedName": "StringInterpolation",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultStringInterpolation",
+                    "printedName": "Swift.DefaultStringInterpolation",
+                    "usr": "s:s26DefaultStringInterpolationV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s32ExpressibleByStringInterpolationP",
+            "mangledName": "$ss32ExpressibleByStringInterpolationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "LosslessStringConvertible",
+            "printedName": "LosslessStringConvertible",
+            "usr": "s:s25LosslessStringConvertibleP",
+            "mangledName": "$ss25LosslessStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RangeReplaceableCollection",
+            "printedName": "RangeReplaceableCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sm",
+            "mangledName": "$sSm"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MirrorPath",
+            "printedName": "MirrorPath",
+            "usr": "s:s10MirrorPathP",
+            "mangledName": "$ss10MirrorPathP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSString",
+                    "printedName": "Foundation.NSString",
+                    "usr": "c:objc(cs)NSString"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIColor",
+        "printedName": "UIColor",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hex:alpha:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC8HosaiDivE3hex5alphaABSi_14CoreFoundation7CGFloatVtcfc",
+            "mangledName": "$sSo7UIColorC8HosaiDivE3hex5alphaABSi_12CoreGraphics7CGFloatVtcfc",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hexString:alpha:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC8HosaiDivE9hexString5alphaABSgSS_14CoreFoundation7CGFloatVtcfc",
+            "mangledName": "$sSo7UIColorC8HosaiDivE9hexString5alphaABSgSS_12CoreGraphics7CGFloatVtcfc",
+            "moduleName": "HosaiDiv",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIColor",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIColor",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByColorLiteral",
+            "printedName": "_ExpressibleByColorLiteral",
+            "usr": "s:s26_ExpressibleByColorLiteralP",
+            "mangledName": "$ss26_ExpressibleByColorLiteralP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/TundbuView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 332,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/TundbuView.swift",
+      "kind": "FloatLiteral",
+      "offset": 374,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/TundbuView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 419,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/TundbuView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 457,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/JinodkBinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 290,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/JinodkBinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 336,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/JinodkBinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 382,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/JinodkBinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 429,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/JinodkBinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 477,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/JinodkBinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 520,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/JinodkBinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 575,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/JinodkBinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 628,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/JinodkBinVc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4201,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/Hudnidu.swift",
+      "kind": "StringLiteral",
+      "offset": 1356,
+      "length": 46,
+      "value": "\"u6eno6Dp\/Pyyo7r9vqr+uqP9urz8peH8uqP9uaC8vQ==\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/Hudnidu.swift",
+      "kind": "StringLiteral",
+      "offset": 1505,
+      "length": 82,
+      "value": "\"u6eno6Dp\/Pzl6uDkt+fhsefl4uuy5OK35OSwt7Dh57L9vrywuLKjuv26vPy3uqW6t7b8vaa+sbahoA==\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/Hudnidu.swift",
+      "kind": "StringLiteral",
+      "offset": 1676,
+      "length": 82,
+      "value": "\"u6eno6Dp\/PyhsqT9tLqnu6axpqC2obC8vae2vaf9sLy+\/Lm3prmy\/Le6pbb8vrK6vfyXvLqgvf2jvbQ=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/Hudnidu.swift",
+      "kind": "StringLiteral",
+      "offset": 2814,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/Hudnidu.swift",
+      "kind": "StringLiteral",
+      "offset": 2988,
+      "length": 6,
+      "value": "\"name\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/Hudnidu.swift",
+      "kind": "StringLiteral",
+      "offset": 3004,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/Hudnidu.swift",
+      "kind": "StringLiteral",
+      "offset": 3020,
+      "length": 5,
+      "value": "\"url\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/Hudnidu.swift",
+      "kind": "StringLiteral",
+      "offset": 3988,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/Hudnidu.swift",
+      "kind": "FloatLiteral",
+      "offset": 6026,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/Hudnidu.swift",
+      "kind": "FloatLiteral",
+      "offset": 6321,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "Array",
+      "offset": 210,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "BooleanLiteral",
+      "offset": 339,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 377,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "Array",
+      "offset": 479,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1226,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1279,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1332,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1390,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 1451,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 1519,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "StringLiteral",
+      "offset": 1666,
+      "length": 17,
+      "value": "\"AvenirNext-Bold\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1691,
+      "length": 2,
+      "value": "28"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1870,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1881,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1919,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1957,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "StringLiteral",
+      "offset": 2096,
+      "length": 18,
+      "value": "\"AvenirNext-Heavy\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2122,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2302,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2313,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2351,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 2389,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "StringLiteral",
+      "offset": 2538,
+      "length": 12,
+      "value": "\"START GAME\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "StringLiteral",
+      "offset": 2613,
+      "length": 18,
+      "value": "\"AvenirNext-Heavy\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2639,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2742,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 2752,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2793,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2831,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2995,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3006,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3045,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 3085,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8216,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8248,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8283,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8505,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8746,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 8793,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8923,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8930,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8993,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 9065,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 12683,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12866,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13108,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 13135,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 13163,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "Array",
+      "offset": 13177,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13278,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13313,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13354,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13356,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13391,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "StringLiteral",
+      "offset": 13711,
+      "length": 14,
+      "value": "\"SPACE: UPPER\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "StringLiteral",
+      "offset": 13728,
+      "length": 14,
+      "value": "\"SPACE: LOWER\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13768,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "StringLiteral",
+      "offset": 13797,
+      "length": 25,
+      "value": "\"SCORE: \""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "StringLiteral",
+      "offset": 13821,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 13911,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 13997,
+      "length": 3,
+      "value": "1.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 14005,
+      "length": 3,
+      "value": "1.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 14069,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14529,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14541,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14577,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14579,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14591,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14800,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "StringLiteral",
+      "offset": 14890,
+      "length": 22,
+      "value": "\"transform.rotation.z\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14969,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15000,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15034,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "StringLiteral",
+      "offset": 15141,
+      "length": 19,
+      "value": "\"rotationAnimation\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15711,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "FloatLiteral",
+      "offset": 15754,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21001,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21229,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21264,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21300,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21302,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1202-7\/HosaiDiv\/HosaiDiv\/RaumUmdrehenSpielAnsicht.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21337,
+      "length": 1,
+      "value": "2"
+    }
+  ]
+}
