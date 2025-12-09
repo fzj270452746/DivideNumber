@@ -7,10 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		283799862EE8165F00985B34 /* AdServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 283799852EE8165F00985B34 /* AdServices.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		283799882EE8166200985B34 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 283799872EE8166200985B34 /* AdSupport.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		2837998A2EE8166C00985B34 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 283799892EE8166C00985B34 /* StoreKit.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		E7EAB87D36C4ECF535056FCD /* Pods_DivideNumber.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 855D92B8D413C537F93334A4 /* Pods_DivideNumber.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		283799852EE8165F00985B34 /* AdServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdServices.framework; path = System/Library/Frameworks/AdServices.framework; sourceTree = SDKROOT; };
+		283799872EE8166200985B34 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		283799892EE8166C00985B34 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		2874DDA32ED88CB30076A641 /* DivideNumber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DivideNumber.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		82C026EE44FC7D1595F56738 /* Pods-DivideNumber.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DivideNumber.release.xcconfig"; path = "Target Support Files/Pods-DivideNumber/Pods-DivideNumber.release.xcconfig"; sourceTree = "<group>"; };
 		855D92B8D413C537F93334A4 /* Pods_DivideNumber.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DivideNumber.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -43,6 +49,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2837998A2EE8166C00985B34 /* StoreKit.framework in Frameworks */,
+				283799882EE8166200985B34 /* AdSupport.framework in Frameworks */,
+				283799862EE8165F00985B34 /* AdServices.framework in Frameworks */,
 				E7EAB87D36C4ECF535056FCD /* Pods_DivideNumber.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -80,6 +89,9 @@
 		D028CE7387FF11A2E8E350ED /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				283799892EE8166C00985B34 /* StoreKit.framework */,
+				283799872EE8166200985B34 /* AdSupport.framework */,
+				283799852EE8165F00985B34 /* AdServices.framework */,
 				855D92B8D413C537F93334A4 /* Pods_DivideNumber.framework */,
 			);
 			name = Frameworks;
