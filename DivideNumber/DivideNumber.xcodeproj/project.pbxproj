@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		283799862EE8165F00985B34 /* AdServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 283799852EE8165F00985B34 /* AdServices.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		283799882EE8166200985B34 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 283799872EE8166200985B34 /* AdSupport.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
-		2837998A2EE8166C00985B34 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 283799892EE8166C00985B34 /* StoreKit.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		E7EAB87D36C4ECF535056FCD /* Pods_DivideNumber.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 855D92B8D413C537F93334A4 /* Pods_DivideNumber.framework */; };
 /* End PBXBuildFile section */
 
@@ -49,7 +48,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2837998A2EE8166C00985B34 /* StoreKit.framework in Frameworks */,
 				283799882EE8166200985B34 /* AdSupport.framework in Frameworks */,
 				283799862EE8165F00985B34 /* AdServices.framework in Frameworks */,
 				E7EAB87D36C4ECF535056FCD /* Pods_DivideNumber.framework in Frameworks */,
@@ -247,7 +245,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.dn.DivideNumber;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -284,7 +282,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.dn.DivideNumber;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
